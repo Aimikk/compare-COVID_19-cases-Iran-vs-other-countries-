@@ -10,3 +10,5 @@ Spain: Similar in population size and having faced high infection rates.
 South Korea: Known for its effective testing and tracing.
 
 Turkey: Both countries have faced significant challenges with COVID-19, and comparing their responses can provide insights into different strategies.
+
+change the path of exel file so the programmer will rum smoothly.
